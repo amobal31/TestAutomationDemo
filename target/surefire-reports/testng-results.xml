@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-21T18:07:23 IST" name="Suite" finished-at="2025-06-21T18:07:30 IST" duration-ms="6710">
+    <groups>
+    </groups>
+    <test started-at="2025-06-21T18:07:23 IST" name="Test" finished-at="2025-06-21T18:07:30 IST" duration-ms="6710">
+      <class name="com.webapp.test.UITest">
+        <test-method signature="startBrowser()[pri:0, instance:com.webapp.test.UITest@4445629]" started-at="2025-06-21T18:07:23 IST" name="startBrowser" finished-at="2025-06-21T18:07:30 IST" duration-ms="6655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+      </class> <!-- com.webapp.test.UITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
